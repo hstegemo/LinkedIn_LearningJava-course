@@ -2,9 +2,9 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Grade> grades = new ArrayList<Grade>();
-        ArrayList<Course> courses = new ArrayList<Course>();
-        ArrayList<Student> students = new ArrayList<Student>();
+        ArrayList<Grade> grades = new ArrayList<>();
+        ArrayList<Course> courses = new ArrayList<>();
+        ArrayList<Student> students = new ArrayList<>();
 
         students.add(new Student( "Helge Stegemoen"));
 
